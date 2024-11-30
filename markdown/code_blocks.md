@@ -37,3 +37,21 @@ the rules.
 The Markdown extension highlights the issue.
 
 ```
+<!-- Bash code -->
+## Bash
+
+```bash
+npm isnall
+
+npm start
+```
+<!-- Python code -->
+## Python
+
+```python
+def add(num1, num2)
+  return num1 + num 2
+```
+
+<!-- Block quote -->
+> This is a quote

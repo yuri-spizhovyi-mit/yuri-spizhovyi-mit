@@ -28,12 +28,14 @@ Markdown provides several types of lists. Here’s an overview:
 1. first item
 2. second item
 3. third item
+4. forth item
 
 ### With repetitive numbering
 
 1. first item
 1. second item (still appears as "2")
 1. third item
+1. forth item
 
 ---
 
