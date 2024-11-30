@@ -6,9 +6,9 @@ I've been learning how to embed images in Markdown, but I encountered some diffi
 ## Linking to Images in Markdown
 
 You can create a link that navigates to a specific image by linking to the header
-associated with that image. The link uses the format [Link Text](#header-id),
-where header-id is the lowercase version of the header text, with spaces
-replaced by hyphens.
+associated with that image. The link uses the format Link Text in square
+braces, then (#header-id), where header-id is the lowercase version of the header
+text, with spaces replaced by hyphens.
 
 There are images like .gif, .jpg and .jpg with link:
 
