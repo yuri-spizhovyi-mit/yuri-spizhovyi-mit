@@ -59,7 +59,7 @@ I’ve collaborated with my son to create websites for small businesses in Canad
 3. [Andor's Blinds](https://andorsblinds.ca)  
 
 **My Role**: Project manager, designer, and SEO strategist.  
-**Tech**: React.js (developed by [Max Spizhovyi](https://maxweb.studio).
+**Tech**: React.js developed by [Max Spizhovyi](https://maxweb.studio).
 
 ---
 
