@@ -1,34 +1,32 @@
 # 👋 Hi, I'm Yuri Spizhovyi
 
-Welcome to my GitHub profile! I’m a passionate **Software Tester**,
-with a growing interest in **Data Science**.
-I currently work as a **Software QA** at **Fortify Enterprise Inc.**
-and am enrolled in the **MIT Emerging Talents Computer Computer and Data Science
-Course** to deepen my Python and Data Science knowledge and transition into the Data
-Science field.
+Welcome to my GitHub profile! I’m a passionate **Software Tester**, with a growing
+interest in **Data Science**. I currently work as a **Software QA** at **Fortify
+Enterprise Inc.** and am enrolled in the **MIT Emerging Talents Computer Computer
+and Data Science Course** to deepen my Python and Data Science knowledge and
+transition into the Data Science field.
 
 ---
 
 ## 🌟 About Me
 
 - 🎓 **Education**: Graduated in **Engineering Physics** from the National Technical
-- University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute" (NTUU KPI).
+ University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute" (NTUU KPI).
 - 📘 **Certifications**:  
   - Enrolled in and successfully completed a **Software Testing Course** at
-  - **SkillUp** in 2021.
+   **SkillUp** in 2021.
   - Enhanced my skills with the **QA Automation in Python course** from **Hillel
-  - Computer School** in 2023.  
+   Computer School** in 2023.  
   - Completed the **Hitek Computer School Quality Assurance Course** in 2024,
-  - to align my testing knowledge with North American standards.
+   to align my testing knowledge with North American standards.
 
-- 💻 **Current Role in Canada**:  
-  - **Part-Time Software QA** at **Fortify Enterprise Inc.** (since June 2024).
+- 💻 **Current Role**:  
+  - **Software QA** at **Fortify Enterprise Inc.** (since June 2024).
 - 💻 **Previous Role**:  
   - **QA Lead** at Exadel (until June 2024), leading a team and working on advanced
   - cloud-based ERP solutions for QAD.  
   - **Software Tester** at Exadel (Jan 2022 – Aug 2022), working on a **Document
   - Management System for Global Trade** in collaboration with **Deloitte**.  
-- 🌍 **In Canada**: Immigrated in 2023 to build a career in software testing.
 - 📚 **Current Learning**:  
   Attending the **MIT Emerging Talents Course** to master Python and Data Science,
   aiming to transition into the Data Science field.
@@ -38,7 +36,7 @@ Science field.
 ## 🛠️ Skills & Interests
 
 - **Manual & Automated Testing**: Functional, smoke, regression, and API testing
-- (Swagger, Postman, Playwright, Python frameworks).
+ (Swagger, Postman, Playwright, Python frameworks).
 - **Test Documentation**: Microsoft Azure DevOps, Zephyr, Jira, Confluence.
 - **Tech Stack**:  
   - Frontend: Angular, TypeScript, React  
@@ -67,7 +65,7 @@ I’ve collaborated with my son to create websites for small businesses in Canad
 
 ### **Fortify Enterprise Inc.**  
 
-**Part-Time Software QA** (June 2024 – Present)
+**Software QA** (June 2024 – Present)
 
 **Project**: [Brij – Mobile iOS Content Monetization Platform](https://brij.app/)
 
