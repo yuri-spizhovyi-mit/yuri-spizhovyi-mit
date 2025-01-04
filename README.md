@@ -52,14 +52,14 @@ Science field.
 
 ## 🚀 Projects
 
-I’ve collaborated with my sons to create websites for small businesses in Canada:
+I’ve collaborated with my son to create websites for small businesses in Canada:
 
 1. [J&R Custom Woodwork](https://jrcustomwoodwork.ca)  
 2. [Ruta Roots Landscaping](https://www.rutarootslandscaping.com)  
 3. [Andor's Blinds](https://andorsblinds.ca)  
 
 **My Role**: Project manager, designer, and SEO strategist.  
-**Tech**: React.js (developed by my son, [Max Spizhovyi](https://maxweb.studio).
+**Tech**: React.js (developed by [Max Spizhovyi](https://maxweb.studio).
 
 ---
 
