@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I’m a passionate **Software Tester**, with a growing
 interest in **Data Science**. I currently work as a **Software QA** at **Fortify
-Enterprise Inc.** and am enrolled in the **MIT Emerging Talents Computer Computer
+Enterprise Inc.** and am enrolled in the **MIT Emerging Talents Computer
 and Data Science Course** to deepen my Python and Data Science knowledge and
 transition into the Data Science field.
 
