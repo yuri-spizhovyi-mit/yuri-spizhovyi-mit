@@ -50,7 +50,8 @@ transition into the Data Science field.
 
 ## 🚀 Projects
 
-I’ve collaborated with my son to create websites for small businesses in Canada:
+I’ve collaborated with [![GitHub][link-1]][link-2] to create websites for small businesses
+in Canada:
 
 1. [J&R Custom Woodwork](https://jrcustomwoodwork.ca)  
 2. [Ruta Roots Landscaping](https://www.rutarootslandscaping.com)  
@@ -109,3 +110,6 @@ Microsoft Azure DevOps, Confluence.
 
 - **Email**: <spizhov22y@gmail.com>
 - **GitHub Portfolio**: Check out my projects and repositories here!
+
+[link-1]:https://img.shields.io/badge/GitHub-MaxSpizhovyi-blue?logo=github&style=flat-square
+[link-2]:https://github.com/SpizhovyiMaxDev
