@@ -26,7 +26,7 @@ transition into the Data Science field.
   - **QA Lead** at Exadel (until June 2024), leading a team and working on advanced
   - cloud-based ERP solutions for QAD.  
   - **Software Tester** at Exadel (Jan 2022 – Aug 2022), working on a **Document
-  - Management System for Global Trade** in collaboration with **Deloitte**.  
+  Management System for Global Trade** in collaboration with **Deloitte**.  
 - 📚 **Current Learning**:  
   Attending the **MIT Emerging Talents Course** to master Python and Data Science,
   aiming to transition into the Data Science field.
