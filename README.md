@@ -20,9 +20,8 @@ transition into the Data Science field.
   - Completed the **Hitek Computer School Quality Assurance Course** in 2024,
    to align my testing knowledge with North American standards.
 
-- 💻 **Current Role**:  
+- 💻 **Experience**:  
   - **Software QA** at **Fortify Enterprise Inc.** (June 2024 – Dec 2024).
-- 💻 **Previous Role**:  
   - **QA Lead** at Exadel (until June 2024), leading a team and working on advanced
   - cloud-based ERP solutions for QAD.  
   - **Software Tester** at Exadel (Jan 2022 – Aug 2022), working on a **Document
