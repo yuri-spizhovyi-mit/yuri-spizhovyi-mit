@@ -21,7 +21,7 @@ transition into the Data Science field.
    to align my testing knowledge with North American standards.
 
 - 💻 **Current Role**:  
-  - **Software QA** at **Fortify Enterprise Inc.** (since June 2024).
+  - **Software QA** at **Fortify Enterprise Inc.** (June 2024 – Dec 2024).
 - 💻 **Previous Role**:  
   - **QA Lead** at Exadel (until June 2024), leading a team and working on advanced
   - cloud-based ERP solutions for QAD.  
